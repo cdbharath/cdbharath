@@ -1,3 +1,1 @@
-# private_key
-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
-VZhccKOCOtpRCYTSoXYp1ezZPIOWBgdkPG5KYuQpoos
+[![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdbharath&show_icons=true&theme=radical&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
